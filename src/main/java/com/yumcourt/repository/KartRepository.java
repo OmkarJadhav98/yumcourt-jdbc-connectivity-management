@@ -3,7 +3,7 @@ package com.yumcourt.repository;
 import com.yumcourt.model.Kart;
 import com.yumcourt.model.Customer;
 import com.yumcourt.model.Restaurant;
-import com.project.service.ConnectionService;
+import com.yumcourt.service.ConnectionService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
