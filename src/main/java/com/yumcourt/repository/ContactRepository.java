@@ -2,7 +2,7 @@ package com.yumcourt.repository;
 
 import com.yumcourt.model.Contact;
 import com.yumcourt.model.Address;
-import com.project.service.ConnectionService;
+import com.yumcourt.service.ConnectionService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
